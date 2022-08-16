@@ -1,3 +1,5 @@
+# Warning : This is a PHP7.4 compatibility fork, untested.
+
 # Introduction
 
 PDO driver implementation for Cassandra CQL.
